@@ -6,7 +6,7 @@ require 'rspec/autorun'
 
 require 'load-me'
 
-Rspec.configure do |c|
-  c.mock_with :rspec
-end
+# Rspec.configure do |c|
+#   c.mock_with :rspec
+# end
 
