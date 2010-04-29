@@ -20,9 +20,11 @@ Gem::Specification.new do |s|
     ".document",
     ".gitignore",
     "LICENSE",
+    "README.markdown",
     "Rakefile",
     "VERSION",
     "lib/load-me.rb",
+    "load-me.gemspec",
     "spec/load-me_spec.rb",
     "spec/spec.opts",
     "spec/spec_helper.rb"
